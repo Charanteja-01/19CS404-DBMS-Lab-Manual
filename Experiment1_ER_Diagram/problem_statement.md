@@ -31,7 +31,7 @@ Design a database to manage students, instructors, programs, courses, and studen
    - Why you chose the entities and relationships.
    - How you modeled prerequisites or billing.
 
-# ER Diagram Submission - Sanjai S
+# ER Diagram Submission - Yedlapalli Charan Teja
 
 ## Scenario Chosen:
 University 
